@@ -21,17 +21,30 @@ date_format = "January 2006"
 [[experience]]
   title = "Machine Learning Intern"
   company = "42Hertz"
-  company_url = "http://42hertz.com/"
-  location = "Bangalore, India"
-  date_start = " June 2017"
-  date_end = "August 2017"
+  company_url = "https://42hertz.com/"
+  location = "Bangalore India"
+  date_start = "2017-01-01"
+  date_end = "2017-01-01"
+  description = """
+  Responsibilities included:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
   title = "Research Intern"
   company = "Northwestern University"
   company_url = ""
-  date_start = "August 2017"
-  date_end = "November 2017"
-  description = """Advisor: Dr Chaithanya Bandi"""
+  location = "Advisor: Dr Chaithanya Bandi"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """ 
+  
+  
+  * Performed an extensive feasibility research for a Youth Mental Health Project and developed a prototype for battery-related features (Android).
+  * Also worked on OCR for a medical database documentation project. (Python,Tensorflow)."""
 
 +++
+

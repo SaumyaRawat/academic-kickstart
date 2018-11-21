@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "saumya@cs.umd.edu"
-  address = "4122, University of Maryland, College Park, 20740, MD, USA"
+  address = "4122, A.V Williams, University of Maryland, College Park, 20740, MD, USA"
   office_hours = ""
   phone = ""
   skype = ""
@@ -291,14 +291,14 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
+  name = "Experience"
+  url = "#experience"
+  weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+  name = "Publications"
+  url = "#publications"
+  weight = 2
 
 [[menu.main]]
   name = "Projects"
