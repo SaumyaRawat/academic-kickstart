@@ -11,30 +11,29 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Masters in Computer Science"
+  institution = "University of Maryland, College Park"
+  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor of Technology in Computer Science"
+  institution = "International Institute of Information Technology, Hyderabad (IIIT-H)"
+  year = 2018
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a CS grad student at the University of Maryland, College Park. I also work as a Teaching Assistant for CMSC 216 under Larry Herman.
+
+I completed my Bachelor’s Degree in Computer Science and Engineering from IIIT, Hyderabad, India in May 2018. 
+I did undergrad research in Computer Vision as part of the Honors program in the Center for Visual Information Technology Lab (CVIT) under Dr P. J. Narayanan. 
+
+I am actively looking for internships for Summer 2019 in the field of ML and CV.
