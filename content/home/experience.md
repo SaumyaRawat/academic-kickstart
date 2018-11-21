@@ -38,13 +38,14 @@ date_format = "January 2006"
   company = "Northwestern University"
   company_url = ""
   location = "Advisor: Dr Chaithanya Bandi"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """ 
+  date_start = "2017-06-06"
+  date_end = "2017-06-06"
+  description = """
   
-  
+
   * Performed an extensive feasibility research for a Youth Mental Health Project and developed a prototype for battery-related features (Android).
-  * Also worked on OCR for a medical database documentation project. (Python,Tensorflow)."""
+  * Also worked on OCR for a medical database documentation project. (Python,Tensorflow).
+  """
 
 +++
 
