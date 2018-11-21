@@ -7,14 +7,13 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
-subtitle = ""
+title = "Teaching"
+subtitle = "Worked as a Teaching Assistant for the following"
 
 # Order that this section will appear in.
 weight = 60
 
 +++
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* Intro to Computer Systems, CMSC216, Fall 2018, Under Larry Herman, University of Maryland, College Park
+* Digital Image Processing, CSE478, Monsoon 2017, Under Dr Avinash Sharma, IIIT Hyderabad
+* Structured Systems Analysis and Design & Project, ICS261, Monsoon 2016, Under Dr Raghu Reddy, IIIT Hyderabad
