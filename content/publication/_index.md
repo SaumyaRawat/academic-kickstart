@@ -13,5 +13,6 @@ list_format = 3
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = ""
+caption = "Find me a sky : a data-driven method for color-consistent sky search & replacement"
+
 +++
