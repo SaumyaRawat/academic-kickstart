@@ -23,15 +23,15 @@ date_format = "January 2006"
   company = "42Hertz"
   company_url = "http://42hertz.com/"
   location = "Bangalore, India"
-  date_start = " June 2017"
-  date_end = "August 2017"
+  date_start = "2017-06-06"
+  date_end = "2017-06-06"
 
 [[experience]]
   title = "Research Intern"
   company = "Northwestern University"
   company_url = ""
-  date_start = "August 2017"
-  date_end = "November 2017"
+  date_start = "2017-06-06"
+  date_end = "2017-06-06"
   description = """Advisor: Dr Chaithanya Bandi"""
 
 +++
