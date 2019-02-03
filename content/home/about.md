@@ -31,7 +31,7 @@ weight = 5
 # Biography
 
 
-I am a CS grad student at the University of Maryland, College Park. I also work as a Teaching Assistant for CMSC 216 under Larry Herman.
+I am a CS grad student at the University of Maryland, College Park. I work as a Research Assistant under Prof. Rama Chellappa. I was previously a Teaching Assistant for CMSC 216 under Larry Herman.
 
 I completed my Bachelor’s Degree in Computer Science and Engineering from IIIT, Hyderabad, India in May 2018. 
 I did undergrad research in Computer Vision as part of the Honors program in the Center for Visual Information Technology Lab (CVIT) under Dr P. J. Narayanan. 
